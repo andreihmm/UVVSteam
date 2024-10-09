@@ -21,3 +21,9 @@ Integrantes:
 • Será aceito, no máximo, uma sobreposição de 02 (dois) jogos por grupo, mas com contribuições diferenciadas. Escolham logo! 😊
 
 • Converse com o professor sobre o escopo dessa atividade.
+
+### Jogos escolhidos:
+- (3) : Football Pentalty Shootout Game
+- (6) : Simple Punch Out Game
+- (10) : Side Scrolling Game
+- (18) : Sniper the Dummies
